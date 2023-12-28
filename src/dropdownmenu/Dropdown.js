@@ -40,7 +40,7 @@ function Dropdown()
             </div>
     
             <div className={`dropdown-menu ${open? 'active' : 'inactive'}`} >
-              <h3>The Satyam<br/><span>Website Designer</span></h3>
+              <h3>Satyam Singh<br/><span>Full Stack Developer</span></h3>
               <ul>
                 <DropdownItem img = {user} text = {"My Profile"}/>
                 <DropdownItem img = {edit} text = {"Edit Profile"}/>
